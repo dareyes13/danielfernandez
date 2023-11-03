@@ -4,4 +4,4 @@
 2. advanced analytics, Python/ Pandas
 3. early stage data science experiences
 4. cloud infrastructure (cloud 9 IDE)
-5. 
+5. supervised machine learning
